@@ -1,0 +1,5 @@
+{
+  "name": "Copy of 智能证件照 (Smart ID Photo)",
+  "description": "基于 Gemini AI 的智能证件照背景更换工具。自动识别人物并替换背景颜色（红、蓝、白等），支持高清下载。",
+  "requestFramePermissions": []
+}
